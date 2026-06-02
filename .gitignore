@@ -1,0 +1,5 @@
+data_generation/dataset/
+env/
+.env
+__pycache__/
+.DS_Store
